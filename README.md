@@ -41,6 +41,10 @@ patch < [patch file]
 
 > [grid](https://tools.suckless.org/dmenu/patches/grid/) 加`-g` 设置搜索显示列数和加 `-l` 设置搜索显示行数
 
+5. numbers
+
+> [numbers](https://tools.suckless.org/dmenu/patches/numbers/) 右上角显示匹配项和总数的文本
+
 ## 运行 dmenu
 
 ```shell
