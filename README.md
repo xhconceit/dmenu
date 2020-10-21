@@ -25,6 +25,9 @@ patch < [patch file]
 
 #### patches
 
+1. fuzzymatch
+
+> [fuzzymatch](https://tools.suckless.org/dmenu/patches/fuzzymatch/) 默认启动搜索模糊匹配，加 `-F` 禁用搜索模糊匹配，加 `-i` 不区分大小写
 
 ## 运行 dmenu
 
