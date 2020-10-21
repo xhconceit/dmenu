@@ -33,6 +33,10 @@ patch < [patch file]
 
 > [fuzzyhighlight](https://tools.suckless.org/dmenu/patches/fuzzyhighlight/) 高亮显示模糊匹配
 
+3. center
+
+> [center](https://tools.suckless.org/dmenu/patches/center/) 加 `-c` dmenu 居中在屏幕中间
+
 ## 运行 dmenu
 
 ```shell
