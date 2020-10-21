@@ -45,6 +45,10 @@ patch < [patch file]
 
 > [numbers](https://tools.suckless.org/dmenu/patches/numbers/) 右上角显示匹配项和总数的文本
 
+6. border
+
+> [border](https://tools.suckless.org/dmenu/patches/border/) 在 `dmenu` 窗口周围添加边框
+
 ## 运行 dmenu
 
 ```shell
