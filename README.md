@@ -29,6 +29,10 @@ patch < [patch file]
 
 > [fuzzymatch](https://tools.suckless.org/dmenu/patches/fuzzymatch/) 默认启动搜索模糊匹配，加 `-F` 禁用搜索模糊匹配，加 `-i` 不区分大小写
 
+2. fuzzyhighlight
+
+> [fuzzyhighlight](https://tools.suckless.org/dmenu/patches/fuzzyhighlight/) 高亮显示模糊匹配
+
 ## 运行 dmenu
 
 ```shell
