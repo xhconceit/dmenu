@@ -37,6 +37,10 @@ patch < [patch file]
 
 > [center](https://tools.suckless.org/dmenu/patches/center/) 加 `-c` dmenu 居中在屏幕中间
 
+4. grid
+
+> [grid](https://tools.suckless.org/dmenu/patches/grid/) 加`-g` 设置搜索显示列数和加 `-l` 设置搜索显示行数
+
 ## 运行 dmenu
 
 ```shell
